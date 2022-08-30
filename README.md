@@ -32,8 +32,9 @@ POR EL MOMENTO NO ESTÁ DISPONIBLE PARA TERMUX
 ├❏git clone https://github.com/Yovanihades1212/HADES-BOT-MD.git
 ├❏cd HADES-BOT-MD
 ├❏npm install
-├❏ls
+├❏pkg install yarn
 ├❏npm update
+├❏yarn
 ├❏npm install
 ├❏npm start
 └────ׂ─ׂ─ׂ─ׂ───
